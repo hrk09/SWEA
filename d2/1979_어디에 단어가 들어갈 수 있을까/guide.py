@@ -7,6 +7,7 @@ for T in range(int(input())):
     t = [''.join(i) for i in zip(*b)]  # 세로줄 리스트
     r = 0
     for c in (b,t):
-        #  print(c)
-        for l in c:r+=l.split('0').count('1'*K)
-    print(f'#{T+1} {r}')
+        for l in c:
+            r += l.split('0').count('1'*K)
+    print(r)
+    # print(f'#{T+1} {r}')
