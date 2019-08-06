@@ -1,7 +1,7 @@
 import sys
 sys.stdin = open('input.txt', 'r')
 
-for T in range(int(input())): 
+for T in range(1, int(input()) + 1): 
     N, K = map(int, input().split())
     row_list = [''.join(input().split()) for n in range(N)]  # 값을 str로 바꿈(행)
     col_list = [''.join(i) for i in zip(*row_list)]  # 값을 str로 바꿈(열) zip(*)
