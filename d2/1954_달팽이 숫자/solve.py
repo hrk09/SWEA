@@ -32,7 +32,7 @@ for T in range(1, int(input())+1):
         c += 1
  
     if N % 2 == 1:  # N x N 이 홀수
-        arr[k][k] = num_list[idx]  # 가운데 값
+        arr[k][k] = num_list[idx]  # 가운데 값 = num_list idx의 끝값
 
     print(f'#{T}')
     for i in range(N):
