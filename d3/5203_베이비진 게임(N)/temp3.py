@@ -46,7 +46,7 @@ for t in range(1, TC + 1):
     elif is_triple(p222):
         d2.append(is_triple(p222))
     else:
-        d2 += [0]  
+        d2 += [0]
     print('D2', d2)
 
     if 0 in d1 and 0 in d2:
