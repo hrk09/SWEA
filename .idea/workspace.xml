@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8fe2fdc-fe46-42e5-aa64-058fa6b8ba8e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/SWEA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SWEA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,8 +45,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tmp">
-    <configuration name="guide" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.solve">
+    <configuration name="solve" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d3/1244_최대상금" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d4/2819_격자판의 숫자 이어 붙이기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d3/1244_최대상금/guide.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d4/2819_격자판의 숫자 이어 붙이기/solve.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="solve2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d3/5203_베이비진 게임(N)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d4/3752_가능한 시험 점수" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d3/5203_베이비진 게임(N)/temp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d4/3752_가능한 시험 점수/solve2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tmp (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +96,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d3/5204_병합정렬" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d4/3752_가능한 시험 점수" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\student\SWEA\d3\5204_병합정렬\solve.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kimhyeryeon\SSAFY\SWEA\d4\3752_가능한 시험 점수\solve.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tmp (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d3/5203_베이비진 게임(N)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d4/2819_격자판의 숫자 이어 붙이기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d3/5203_베이비진 게임(N)/temp2.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kimhyeryeon\SSAFY\SWEA\d4\2819_격자판의 숫자 이어 붙이기\solve.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tmp2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d3/1244_최대상금" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/d4/3752_가능한 시험 점수" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/d3/1244_최대상금/tmp.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\kimhyeryeon\SSAFY\SWEA\d4\3752_가능한 시험 점수\guide.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,19 +152,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.temp (1)" />
-      <item itemvalue="Python.temp2 (1)" />
-      <item itemvalue="Python.temp (2)" />
-      <item itemvalue="Python.tmp" />
-      <item itemvalue="Python.guide" />
+      <item itemvalue="Python.tmp (1)" />
+      <item itemvalue="Python.tmp2" />
+      <item itemvalue="Python.solve2" />
+      <item itemvalue="Python.tmp (2)" />
+      <item itemvalue="Python.solve" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tmp" />
-        <item itemvalue="Python.guide" />
-        <item itemvalue="Python.temp (2)" />
-        <item itemvalue="Python.temp2 (1)" />
-        <item itemvalue="Python.temp (1)" />
+        <item itemvalue="Python.solve" />
+        <item itemvalue="Python.tmp (2)" />
+        <item itemvalue="Python.solve2" />
+        <item itemvalue="Python.tmp2" />
+        <item itemvalue="Python.tmp (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -195,5 +193,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/d3/1244_최대상금/tmp.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
