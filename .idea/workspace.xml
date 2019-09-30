@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/d5/1247_최적 경로/tmp2.py" line="30" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="a8fe2fdc-fe46-42e5-aa64-058fa6b8ba8e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/SWEA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SWEA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d5/1247_최적 경로/guide.py" beforeDir="false" afterPath="$PROJECT_DIR$/d5/1247_최적 경로/guide.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d5/1247_최적 경로/tmp2.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,62 +15,83 @@
     <session id="-1633886622">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="3" />
-          <entry key="txt" value="2" />
+          <entry key="py" value="4" />
+          <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="3" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="4678" />
+          <entry key="py" value="5072" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="4678" />
+          <entry key="Python" value="5072" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/d5/1247_최적 경로/tmp2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="3" />
-              <folding>
-                <marker date="1569818546554" expanded="true" signature="84:129" ph="..." />
-                <marker date="1569818546554" expanded="true" signature="160:236" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/d5/1247_최적 경로/guide.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.6728135">
+      <split-first>
+        <splitter split-orientation="horizontal" split-proportion="0.5">
+          <split-first>
+            <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/d5/1247_최적 경로/input.txt">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="627">
+                      <caret line="33" selection-start-line="33" selection-end-line="33" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf>
+              <file pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/d5/1247_최적 경로/guide.py">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="658">
+                      <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/d5/1247_최적 경로/input.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="627">
+                  <caret line="33" selection-start-line="33" selection-end-line="33" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,14 +108,15 @@
       <list>
         <option value="$PROJECT_DIR$/d5/1247_최적 경로/input.txt" />
         <option value="$PROJECT_DIR$/d5/1247_최적 경로/tmp.py" />
-        <option value="$PROJECT_DIR$/d5/1247_최적 경로/tmp2.py" />
         <option value="$PROJECT_DIR$/d5/1247_최적 경로/guide.py" />
+        <option value="$PROJECT_DIR$/d5/1247_최적 경로/tmp2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="6" />
-    <option name="width" value="878" />
+    <option name="x" value="129" />
+    <option name="y" value="95" />
+    <option name="width" value="1538" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectId" id="1RKWhCEQWBNQqYQNH1KrhtiekqH" />
@@ -110,6 +128,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,11 +151,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -156,7 +174,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.guide">
+  <component name="RunManager" selected="Python.tmp2 (1)">
     <configuration name="guide" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -271,8 +289,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.guide" />
         <item itemvalue="Python.tmp2 (1)" />
+        <item itemvalue="Python.guide" />
         <item itemvalue="Python.tmp" />
         <item itemvalue="Python.solve" />
         <item itemvalue="Python.tmp (2)" />
@@ -293,11 +311,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="0" width="878" height="1047" extended-state="0" />
+    <frame x="129" y="95" width="1538" height="1047" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.29166666" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.16266666" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.33442983" />
@@ -348,38 +366,31 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/d5/1247_최적 경로/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/d5/1247_최적 경로/tmp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
-          <folding>
-            <marker date="1569816473252" expanded="true" signature="66:111" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/d5/1247_최적 경로/tmp2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="3" />
-          <folding>
-            <marker date="1569818546554" expanded="true" signature="84:129" ph="..." />
-            <marker date="1569818546554" expanded="true" signature="160:236" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/d5/1247_최적 경로/guide.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="658">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d5/1247_최적 경로/tmp2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="43" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/d5/1247_최적 경로/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>

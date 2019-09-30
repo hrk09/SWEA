@@ -12,7 +12,7 @@ def travel(total, idx):
         return
     last_visit = customers[idx]
     if len(visited) == len(customers):
-        ans = min(ans, total + distance(last_visit, home))
+        ans = min(ans, total + distance(last_visit, house))
         return
     for i in range(len(customers)):
         if i in visited:
@@ -22,19 +22,28 @@ def travel(total, idx):
         travel(total + distance(last_visit, this_visit), i)
         visited.remove(i)
 
+TC = int(input())
+for t in range(1, TC + 1):
+    v = int(input())
+    lst = list(map(int, input().split()))
+    location = []
 
-T = int(input())
-for tc in range(1, T + 1):
-    N = int(input())
-    points = list(map(int, input().split()))
-    office = (points[0], points[1])
-    home = (points[2], points[3])
-    customers = [office]
+    # 좌표 location 만들기
+    for i in range(0, (v + 2) * 2, 2):
+        location.append((lst[i], lst[i + 1]))
 
-    for x in range(4, 2*N+4, 2):
-        customers.append(tuple(points[x:x+2]))
-    print(customers)
+    company = location[0]
+    house = location[1]
+    customers = location[2:]
+    customers.insert(0, company)
+    # print(customers)
+
     ans = float('INF')
     visited = set((0,))
     travel(0, 0)
-    print('#{} {}'.format(tc, ans))
+    print('#{} {}'.format(t, ans))
+    
+
+
+
+
