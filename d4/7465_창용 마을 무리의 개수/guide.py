@@ -11,7 +11,6 @@ for t in range(1, T + 1):
         a, b = map(int, input().split())
         arr[a].append(b)
         arr[b].append(a)
-    # print(arr)
 
     tmp = []
     for i in range(1, people+1):
